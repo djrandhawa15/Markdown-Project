@@ -67,7 +67,7 @@ You can export notes as:
 - **PDF (.pdf)**
 - **HTML (.html)**
 
-## Keyboard Shortcuts Windows
+## Keyboard Shortcuts Windows/Mac
 | Action | Shortcut |
 |--------|----------|
 | Open Quick Switcher | `Ctrl/Cmd + O` |
